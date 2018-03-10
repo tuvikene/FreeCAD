@@ -19,15 +19,15 @@ Group:          Applications/Engineering
 
 License:        GPLv2+
 URL:            http://sourceforge.net/apps/mediawiki/free-cad/
-Source0: 	https://github.com/PrzemoF/FreeCAD/archive/fedora.tar.gz
-#Source0: 	https://github.com/PrzemoF/FreeCAD/archivde/fedora.tar.gz#/%{name}-%{version}-%{release}.tar.gz
-#Source0: 	https://github.com/PrzemoF/FreeCAD/archivde/master.tar.gz#/%{name}-%{version}-%{release}.tar.gz
+Source0: 	https://github.com/tuvikene/FreeCAD/archive/fedora.tar.gz
+#Source0: 	https://github.com/tuvikene/FreeCAD/archivde/fedora.tar.gz#/%{name}-%{version}-%{release}.tar.gz
+#Source0: 	https://github.com/tuvikene/FreeCAD/archivde/master.tar.gz#/%{name}-%{version}-%{release}.tar.gz
 #Source101:      freecad.desktop
-Source101:      https://raw.githubusercontent.com/PrzemoF/FreeCAD/fedora/package/fedora/freecad.desktop
+Source101:      https://raw.githubusercontent.com/tuvikene/FreeCAD/fedora/package/fedora/freecad.desktop
 #Source102:      freecad.1
-Source102:      https://raw.githubusercontent.com/PrzemoF/FreeCAD/fedora/package/fedora/freecad.appdata.xml
+Source102:      https://raw.githubusercontent.com/tuvikene/FreeCAD/fedora/package/fedora/freecad.appdata.xml
 #Source103:      freecad.appdata.xml
-Source103:      https://raw.githubusercontent.com/PrzemoF/FreeCAD/fedora/package/fedora/freecad.sharedmimeinfo
+Source103:      https://raw.githubusercontent.com/tuvikene/FreeCAD/fedora/package/fedora/freecad.sharedmimeinfo
 #Source104:      freecad.sharedmimeinfo
 
 #Patch0:         freecad-3rdParty.patch
